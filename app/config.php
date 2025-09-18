@@ -1,6 +1,6 @@
 <?php
 define('DB_HOST', 'db.fr-pari1.bengt.wasmernet.com');
-define('DB_USER', 'b585b741795880005f1cfc1f8780);
+define('DB_USER', 'b585b741795880005f1cfc1f8780');
 define('DB_PASS', '068cb585-b741-7b05-8000-3453b1959268');
 define('DB_NAME', 'smm_free');   // List of MySQL Databases me jo exact naam dikhta hai
 define('TIMEZONE', 'Asia/Kolkata');
