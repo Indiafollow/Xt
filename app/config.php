@@ -6,3 +6,4 @@ define('DB_NAME', 'smm_free');
 
 define('TIMEZONE', 'Asia/Kolkata');
 define('ENCRYPTION_KEY', '202d0507882ef55ddbc23f7e84dcfe8d');
+
