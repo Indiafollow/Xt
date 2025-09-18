@@ -1,6 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-$active_group='default'; $query_builder=TRUE;
+$active_group='default';
+$query_builder=TRUE;
 
 $db['default']=array(
   'dsn'      => '',
@@ -9,7 +10,7 @@ $db['default']=array(
   'password' => DB_PASS,
   'database' => DB_NAME,
   'dbdriver' => 'mysqli',
-  'port'     => ,
+  'port'     => 10272,
   'pconnect' => FALSE,
   'db_debug' => (ENVIRONMENT!=='production'),
   'cache_on' => FALSE,
